@@ -29,6 +29,6 @@ def get_vector_store(
         collection_name=collection_name,
         embedding=embeddings,
         api_endpoint="https://19b6fcda-3fe8-4585-a5f5-6a464a382426-westus3.apps.astra.datastax.com",
-        token="AstraCS:UaZmElcIDkRHzUmktguKwrnd:197d3e825510580f5f97cc749b00a94b685d54a5f1d4a755b75440fe2c29329b",
+        token="your-token-here",
         namespace="default_keyspace",
     )
